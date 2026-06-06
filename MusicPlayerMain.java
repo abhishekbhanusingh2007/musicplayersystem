@@ -48,5 +48,6 @@ public class MusicPlayerMain {
         // ── Show total song count ─────────────────────────────────────────
         System.out.println("\nTotal songs in playlist: " + myPlaylist.getCount());
         System.out.println("\n[Program ended successfully]");
+        System.out.println("\nProgram completed successfully.");
     }
 }

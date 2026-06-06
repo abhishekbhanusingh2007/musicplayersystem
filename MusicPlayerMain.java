@@ -18,7 +18,7 @@ public class MusicPlayerMain {
     public static void main(String[] args) {
 
         // ── Print Welcome Banner ──────────────────────────────────────────
-        System.out.println("╔══════════════════════════════════════╗");
+        System.out.println("                                        ");
         System.out.println("║        Music Playlist Manager        ║");
         System.out.println("╚══════════════════════════════════════╝");
 

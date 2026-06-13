@@ -18,7 +18,6 @@ class Song {
     }
 }
 
-/* ===================== Playlist Class ===================== */
 
 class Playlist {
     private ArrayList<Song> songs = new ArrayList<>();

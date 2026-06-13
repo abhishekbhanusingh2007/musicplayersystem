@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-/* ===================== Song Class ===================== */
 
 class Song {
     private String title;
